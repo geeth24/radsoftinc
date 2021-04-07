@@ -11,19 +11,25 @@
 }
 
 @media (min-width: 768px) {
-  p {
+  .subheading {
     font-size: 24px;
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 768px) {
+  h1 {
+    font-size: 65px;
+  }
+}
+
+@media (min-width: 992px) {
   h1 {
     font-size: 90px;
   }
 }
 
-@media (min-width: 1200px) {
-  p {
+@media (min-width: 992px) {
+  .subheading {
     font-size: 35px;
   }
 }
