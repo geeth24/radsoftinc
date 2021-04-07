@@ -1,12 +1,24 @@
 @media (min-width: 300px) {
+  .subheading {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 300px) {
   h1 {
-    font-size: 42px;
+    font-size: 33px;
   }
 }
 
 @media (min-width: 576px) {
   h1 {
     font-size: 53px;
+  }
+}
+
+@media (min-width: 576px) {
+  .subheading {
+    font-size: 20px;
   }
 }
 
